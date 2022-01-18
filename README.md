@@ -1,17 +1,5 @@
-# 1510-A3-Text-based-adventure-game
+#SUD single player text based adventure game
 
-Every program needs a README.md
+Created with Python, navigate yourself to the last room and defeat the final boss!
+But make sure you level up first.. otherwise you're going to have a pretty bad time :(
 
-This is written in markdown. Read about markdown here: [markdowncheatsheet](https://www.markdownguide.org/cheat-sheet/)
-
-## Your name:
-Replace this line with your name
-
-## Your student number:
-Replace this line with your student number
-
-## Your GitHub account:
-Replace this line with your GitHub account
-
-## Any important comments you'd like to make about your work:
-Replace this line with any comments you want to share
