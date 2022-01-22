@@ -1,8 +1,3 @@
-## SUD single player text based adventure game
-
-Created with Python, navigate yourself to the last room and defeat the final boss!
-But make sure you level up first.. otherwise you're going to have a pretty bad time :(
-
 ## About:
 This is a Single Player Dungeon navigation game meant to be played on the command line. </br>
 Created with Python, players first enter their name and choose a class </br>
